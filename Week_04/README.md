@@ -136,7 +136,7 @@ while left <= right: # 注意等号问题
 
 ## 1. BFS的题目存在双向解法，且效率更高（[单词接龙](https://leetcode-cn.com/problems/word-ladder/)）
 
-## 2. 贪心算法可从局部出发，达成全局最优解
+## 2. 贪心算法可从局部出发，达成全局最优解（[跳跃游戏](https://leetcode-cn.com/problems/jump-game/)）
 
 ## 3. 二分查找注意边界和left>=right的情况
 
